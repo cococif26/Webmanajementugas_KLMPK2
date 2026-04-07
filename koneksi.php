@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
     $host = "localhost";
     $username = "root";
@@ -13,3 +14,6 @@
     }
     echo "berhasil nyambung ke database";
 ?>
+=======
+coba nambah commit di file koneksi
+>>>>>>> e958bde5da5aae2af635e58b1e15790b9314e672
