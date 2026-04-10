@@ -1,11 +1,11 @@
 <?php
 include 'koneksi.php';
 
-$query = "SELECT tugas.*, user.nama_user, user.email 
-          FROM tugas 
-          INNER JOIN user 
-          ON tugas.id_user = user.id_user 
-          ORDER BY tugas.id_tugas DESC";
+$query = "SELECT tasks.*, profiles.nama_user, profiles.email 
+          FROM tasks 
+          INNER JOIN profiles
+          ON tasks.id_user = profiles.id_user 
+          ORDER BY tasks.id_tugas DESC";
 
 $result = $conn->query($query);
 

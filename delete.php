@@ -1,8 +1,8 @@
 <?php
 include 'koneksi.php';
 
-$conn->query("DROP TABLE IF EXISTS user");
-$conn->query("DROP TABLE IF EXISTS tugas");
+$conn->query("DROP TABLE IF EXISTS profiles");
+$conn->query("DROP TABLE IF EXISTS tasks");
 
 
 ?>
