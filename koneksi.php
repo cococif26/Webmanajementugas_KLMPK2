@@ -1,4 +1,3 @@
-
 <?php
     $host = "localhost";
     $username = "root";
@@ -14,5 +13,8 @@
     }
     echo "berhasil nyambung ke dalam database";
 ?>
+
+<!-- NPM : 065124088
+     NAMA : Tanti Dwi Juliyanti -->
 
 

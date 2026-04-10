@@ -23,4 +23,6 @@
     echo "<br>Tabel Tugas berhasil dibuat!";
     echo "<br>Tabel User berhasil dibuat!";
 ?>
-<!-- Siti Robiatul Adawiah 065124067 -->
+
+<!-- NPM : 065124067
+     NAMA : Siti Robiatul Adawiah -->
